@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn1{
+    background-color: black;
+    color: #fff;
+}
+.btn_service{
+    background-color: #FFB900;
+    color: #fff;
+}
+.btn_service2{
+    background-color: #fdfcf9;
+    color: rgb(4, 4, 4);
+}
+.menu{
+    margin: auto;
+    text-align: center;
+}
+.ban2{
+    height: 80%;
+    width: 80%;
+}
+.First_banner{
+    padding: 20px;
+    margin-top: 50px;
+}
