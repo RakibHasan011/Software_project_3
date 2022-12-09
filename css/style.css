@@ -2,6 +2,21 @@
     margin: 0;
     padding: 0;
 }
+.logo{
+    font-size: 50px;
+    font-weight: 700;
+}
+.logoicon{
+    height: 97px;
+
+}
+/* .logoicon2 img{
+    height: 97px;
+} */
+.justlogo img{
+    height: 50px;
+}
+
 .btn1{
     background-color: black;
     color: #fff;
@@ -17,6 +32,7 @@
 .menu{
     margin: auto;
     text-align: center;
+    margin-left: 73px;
 }
 .ban2{
     height: 80%;
@@ -38,10 +54,12 @@
 
 .success{
     text-align: center;
-    
+    background: cadetblue;
+    border-radius: 25px;
 }
 .success_text{
     
+margin-top: 138px;
 }
 .success_text h2{
     margin-top: 100px;
@@ -51,6 +69,9 @@ padding-right: 0px;
 }
 .agency{   
 padding-left: 0px;
+}
+.bannnerThree{
+    margin-top: 45px;
 }
 .itemOne_left{
     text-align: start;
@@ -150,4 +171,15 @@ margin-left: 43px;
 padding-top: 15px;
     
 color: #adb5bd;
+}
+.social{
+    /* height: 6px; */
+}
+.social img{
+    
+height: 31px;
+    
+margin-left: 98px;
+    
+padding-left: 35px;
 }
