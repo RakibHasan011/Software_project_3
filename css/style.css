@@ -26,3 +26,49 @@
     padding: 20px;
     margin-top: 50px;
 }
+.second_Banner{
+    margin-top: -115px;
+}
+.percent{
+    text-align: center;
+    color: #000000;
+    justify-content: center;
+    line-height: 387px;
+}
+
+.success{
+    text-align: center;
+    
+}
+.success_text{
+    
+}
+.success_text h2{
+    margin-top: 100px;
+}
+.five{
+padding-right: 0px;
+}
+.agency{   
+padding-left: 0px;
+}
+.itemOne_left{
+    text-align: center;
+    margin-top: 150px;
+    
+}
+.itemOne_left h1{
+    text-transform: capitalize;
+}
+/* .itemOne_left h1,p{
+    margin-top: 200px;
+} */
+.my_list{
+    margin-top: 150px;
+    font-size: 27px;
+    font-weight: 700;
+    padding-left: 75px;
+}
+.itemThree{
+    margin-top: 80px;
+}
